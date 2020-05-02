@@ -1,5 +1,7 @@
 # mario-maze
 
+https://johnathonhutt.github.io/mario-maze/
+
 Part dungeon crawler, part memory game, part mine sweeper w/ styles borrowed (lovingly) from the NES Super Mario series.
 
 The object of this game is to move through the maze, ideally finding the shortest path and collecting 1-ups to maximize points.
