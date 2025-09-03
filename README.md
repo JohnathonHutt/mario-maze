@@ -1,6 +1,6 @@
 # mario-maze
 
-https://johnathonhutt.github.io/mario-maze/
+[Play Here](https://johnathonhutt.github.io/mario-maze/)
 
 Part dungeon crawler, part memory game, part mine sweeper w/ styles borrowed (lovingly) from the NES Super Mario series.
 
